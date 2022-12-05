@@ -22,6 +22,6 @@
   <img align="center" alt="Milena-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Milena-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"> 
   <img align="center" alt="Milena-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"> 
-  <img align="center" alt="Milena-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">                                                                                                                                  
+                                                                                                                        
 </div>
 
