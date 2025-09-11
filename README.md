@@ -1,8 +1,8 @@
 ## Hi, I'm Milena! 
 
-👩🏻‍🎓 I'm a student of Data Engineering and Information Systems.
+👩🏻‍🎓 I'm a student of Data Engineering.
 
-📚 I'm a graduated in Marketing and Nutrition.
+📚 I'm a graduated in Marketing, Nutrition and Information Systems.
 
                                                                                                                                                      
 ##
