@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu portfólio! 
 
-👩🏻‍🎓 Sou a Milena. Atualmente sou estudante do Bootcamp Java Fulltack da Generation Brasil. 
+👩🏻‍🎓 Atualmente sou estudante do Bootcamp Java Fulltack da Generation Brasil. 
 Também sou estudante da DSA, onde faço as formações Engenheiro de Dados e IA para Medicina.
 
 📚 Sou graduada em Marketing, Nutrição e Análise e Desenvolvimento de Sistemas.
