@@ -1,8 +1,11 @@
 ## Seja bem-vindo ao meu portfólio! 
 
-👩🏻‍🎓 Atualmente sou estudante do Bootcamp Java Fulltack da Generation Brasil. 
+📚 Profissional graduada em Análise e Desenvolvimento de Sistemas, em transição consolidada para a área de tecnologia e dados. Experiência prévia em indústria, comércio e saúde, com histórico de melhoria de
+processos e integração entre áreas. Perfil analítico, colaborativo e orientado a resultados.
 
-📚 Sou graduada em Marketing, Nutrição e Análise e Desenvolvimento de Sistemas.
+Habilidades Técnicas: Java | Spring Boot | JavaScript | React | Análise de Dados | Machine Learning | SQL | Python | PySpark | Deep Learning | MySQL | PowerBI | MongoDB | Docker | Terraform | PostgreSQL | Google Cloud Plataform
+| AWS | Snowflake | Hadoop | Git | Linux | Kafka | Redis | Elasticsearch (Kibana) | Airbyte | Airflow | Metabase
+
 
                                                                                                                                                     
 ##
